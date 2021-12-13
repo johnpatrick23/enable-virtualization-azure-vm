@@ -18,4 +18,3 @@ cmd.exe /c "bcdedit /deletevalue hypervisorlaunchtype"
 
 cmd.exe /c "bcdedit /set hypervisorlaunchtype off"
 
-cmd.exe /c "shutdown /r /t 000"
